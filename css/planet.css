@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.page{
+    font-family: 'Nova Flat', cursive;
+    color: blue;
+}
+.planets-wrapper{
+    padding: 50px;
+    background-image: url('../img/mustafar-tall.jpg');
+    height: 100vh;
+    text-align: center;
+}
+.planets-wrapper .planets-list{
+    font-size: 38px;
+}
+.planets-wrapper .planets-list .planet-item{
+    font-size: 28px;
+}
